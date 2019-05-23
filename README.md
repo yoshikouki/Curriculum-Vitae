@@ -5,6 +5,7 @@
 |key|value|
 |---|-----|
 |Name|長重 佑 (Tasuku Nagashige)|
+|Age|27|
 |Blog|[くすたんブログ](https://kusutan.com)|
 |Twitter|[@kusutann](https://twitter.com/kusutann)|
 |YouTube|[くすたんハッキング/Kusutan Hacking](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
