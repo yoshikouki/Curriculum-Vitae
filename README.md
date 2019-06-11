@@ -6,9 +6,9 @@
 |---|-----|
 |Name|長重 佑 (Tasuku Nagashige)|
 |Age|27|
-|Blog|[くすたんブログ](https://kusutan.com)|
+|Blog|[クスタシステムズ](https://kusutan.com)|
 |Twitter|[@kusutann](https://twitter.com/kusutann)|
-|YouTube|[くすたんハッキング/Kusutan Hacking](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
+|YouTube|[くすたん Kusutan](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
 |Qiita|[Qiita](https://qiita.com/kusutann)|
 
 ## スキル
