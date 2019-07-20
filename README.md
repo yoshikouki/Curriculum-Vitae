@@ -8,10 +8,12 @@
 |Age|27|
 |Blog|[クスタシステムズ](https://kusutan.com)|
 |Twitter|[@kusutann](https://twitter.com/kusutann)|
-|YouTube|[くすたん Kusutan](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
-|Qiita|[Qiita](https://qiita.com/kusutann)|
+|YouTube|[くすたん プログラミング大好きエンジニアTV](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
+|その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)<br>[Qiita](https://qiita.com/kusutann)<br>[note](https://note.mu/kusutann)|
 
 ## スキル
+
+スタートアップ特化のフルスタックエンジニアとしてお役に立てます。SNSやソーシャルゲームのフロント/バックをリードエンジニアとして開発したことがあるので、使い勝手は良い方です。
 
 ### 大まかなスキル
 
@@ -22,26 +24,26 @@
 
 ### 細かなスキル
 
-#### プログラミング言語
+#### プログラミング言語/フレームワーク
 
 | 言語 | 備考 |
 |---|-----|
 |PHP|業務で最も使用している|
 |Lua|後述のCorona SDKのフレームワークに使用|
 |GAS（Google Apps Script）|スプレッドシートやSlack等の外部アプリケーションとの連携で使用|
-|Kotlin|趣味レベルで触れている|
+|JavaScript|業務で軽く触れたことがあり、業務で必要になればすぐにアジェストできる|
+|JavaScript(jQuery)|業務で軽く触れたことがあり、業務で必要になればすぐにアジェストできる|
+|JavaScript(Vue.js)|業務で軽く触れたことがあり、業務で必要になればすぐにアジェストできる|
+|HTML/CSS|専門ではないが、完成デザインを再現できるレベル|
 |Python|簡単なツールの作成に使用|
+|Kotlin|趣味レベルで触れている|
 |Ruby|趣味レベルで触れている|
-
-#### フレームワーク
-
-| フレームワーク | 備考 |
-|---|-----|
+|Golang|趣味レベルで触れている|
 |Corona SDK|Luaベースのクロスプラットフォームゲームエンジン。iOS・Android開発業務に使用|
 |Luaの独自フレームワーク|LuaベースのCorona SDKでの開発に最適化された独自フレームワーク（MVC）|
 |PHPの独自フレームワーク|PHPベースのRouterを使ったRESTful API開発に最適化された独自フレームワーク|
+|Laravel|業務で最も使用している|
 |Symphony|業務で軽く触れたことがある|
-|Laravel|趣味レベルで触れている|
 |Ruby on Rails|趣味レベルで触れている|
 
 #### サーバ
@@ -64,6 +66,8 @@
 | その他 | 備考 |
 |---|-----|
 |シェルスクリプト|業務で必要な処理を効率化するレベルには書ける|
+|Ubuntu|業務で軽く触れたことがあり、業務で必要になればすぐにアジェストできる|
+|Cent OS|業務で軽く触れたことがあり、業務で必要になればすぐにアジェストできる|
 |Git（GitHub-flow）|PRとコードレビューを通したチーム開発が問題なくできるレベル。コードレビューの経験もあり|
 |制作ディレクション|リードエンジニア・ディレクターが必要とするレベルは抑えている|
 |スケジュール作成|リードエンジニア・ディレクターが必要とするレベルは抑えている|
@@ -76,7 +80,9 @@
 - 英語
   - 英語のドキュメントを読むことができる
   - 英語のビジネスメールを読むことができる
-  - 前職にて、iOSアプリ開発のためのApp Storeとのビジネスメールや海外企業とのやり取りメールを英語で行っていた
+  - 前職にて、iOSアプリ開発のためのApp Storeとのビジネスメールや海外企業と文書のやり取りを英語で行っていた
+- 韓国語
+  - 趣味で勉強しているレベル
 
 ## 強み
 以下の2点について、強みがあります。
