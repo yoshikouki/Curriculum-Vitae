@@ -6,19 +6,19 @@
 |---|-----|
 |Name|長重 佑 (Tasuku Nagashige)|
 |Age|27|
-|Blog|[クスタシステムズ](https://kusutan.com)|
+|Blog|[鹿児島フリーランスエンジニア](https://kusutan.com)|
 |Twitter|[@kusutann](https://twitter.com/kusutann)|
-|YouTube|[くすたん プログラミング大好きエンジニアTV](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
-|その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)<br>[Qiita](https://qiita.com/kusutann)<br>[note](https://note.mu/kusutann)|
+|YouTube|[くすたん](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
+|その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)<br>[Qiita](https://qiita.com/ntask19)<br>[note](https://note.mu/kusutann)|
 
 ## スキル
 
-スタートアップ特化のフルスタックエンジニアとしてお役に立てます。SNSやソーシャルゲームのフロント/バックをリードエンジニアとして開発したことがあるので、使い勝手は良い方です。
+スタートアップ特化のフルスタックエンジニアとしてお役に立てます。SNSやソーシャルゲームのフロントエンド、バックエンドをリードエンジニアとして開発したことがあるので、使い勝手は良い方です。
 
 ### 大まかなスキル
 
-- スマホアプリのフロントエンド/バックエンドの開発
-- Webアプリのフロントエンド/バックエンドの開発
+- スマホアプリのフロントエンド、バックエンドの開発
+- Webアプリのフロントエンド、バックエンドの開発
 - Git/Git-Flowを使った複数人でのチーム開発及びそのマネジメント
 - 0ベースからコミュニケーションを取って、要望を実現可能な仕様に落とし込む技術
 
@@ -39,9 +39,10 @@
 |Kotlin|趣味レベルで触れている|
 |Ruby|趣味レベルで触れている|
 |Golang|趣味レベルで触れている|
+|Flutter|趣味レベルで触れている|
 |Corona SDK|Luaベースのクロスプラットフォームゲームエンジン。iOS・Android開発業務に使用|
 |Luaの独自フレームワーク|LuaベースのCorona SDKでの開発に最適化された独自フレームワーク（MVC）|
-|PHPの独自フレームワーク|PHPベースのRouterを使ったRESTful API開発に最適化された独自フレームワーク|
+|PHPの独自フレームワーク|API開発に最適化された独自フレームワーク|
 |Laravel|業務で最も使用している|
 |Symphony|業務で軽く触れたことがある|
 |Ruby on Rails|趣味レベルで触れている|
@@ -95,9 +96,11 @@
 
 フロントエンドとバックエンドの両方の開発経験の過程で、UI/UXを深く考える経験をしたため、使い心地などのUXまで考慮に入れた実装や提案をすることができます。また、製品を完成させることに関してのこだわりが強いため、必要に応じてディレクターやデザイナーと議論しながら、仕様やデザインの見直しを提案する場合もあります。
 
-## やったことはないが興味があるもの
-
 ## 職務経歴
+
+### 2019/05 - : フリーランスエンジニア
+
+フリーランスエンジニアとして、Laravel案件をリモートワークで受けています。
 
 ### 2014/04 - 2019/04 : 株式会社freep
 
