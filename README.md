@@ -6,10 +6,10 @@
 |---|-----|
 |Name|長重 佑 (Tasuku Nagashige)|
 |Age|28|
-|Blog|[鹿児島フリーランスエンジニア](https://kusutan.com)|
+|Blog|[鹿児島フリーランスエンジニア](https://kusutan.com)<br>[Qiita](https://qiita.com/ntask19)<br>[note](https://note.mu/kusutann)||
 |Twitter|[@kusutann](https://twitter.com/kusutann)|
-|YouTube|[くすたん](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
-|その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)<br>[Qiita](https://qiita.com/ntask19)<br>[note](https://note.mu/kusutann)|
+|YouTube|[くすたんちゃんねる](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
+|その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)
 
 ## スキル
 
