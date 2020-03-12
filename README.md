@@ -7,7 +7,7 @@
 |Name|長重 佑 (Tasuku Nagashige)|
 |Age|28|
 |Blog|[鹿児島フリーランスエンジニア](https://kusutan.com)<br>[Qiita](https://qiita.com/ntask19)<br>[note](https://note.mu/kusutann)||
-|Twitter|[@kusutann](https://twitter.com/kusutann)|
+|Twitter|[@qst_exe](https://twitter.com/qst_exe)|
 |YouTube|[くすたんちゃんねる](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
 |その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)
 
@@ -45,6 +45,7 @@
 |Laravel|業務で最も使用している|
 |jQuery|業務で使用している|
 |Vue.js|業務で使用している|
+|Nuxt.js|業務で使用している|
 |Symphony|業務で軽く触れたことがある|
 |Corona SDK|Luaベースのクロスプラットフォームゲームエンジン。iOS・Android開発業務に使用している|
 |Flutter|趣味レベルで触れている|
